@@ -87,7 +87,7 @@ The cleaned ESG dataset includes:
 ## 🎓 Credits
 
 📌 **Project completed under the guidance of Unified Mentor**  
-🔗 https://unifiedmentors.com
+🔗 [https://unifiedmentor.com](https://www.unifiedmentor.com/)
 
 ---
 
