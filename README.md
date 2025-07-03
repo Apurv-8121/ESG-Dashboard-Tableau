@@ -14,7 +14,7 @@ This project presents a comprehensive **ESG (Environmental, Social, and Governan
 
 | File                                  | Description                                 |
 |---------------------------------------|---------------------------------------------|
-| `Final_Data merged from 6 raw CSVs        |
+| Final_Data.cvs                        |`Final_Data merged from 6 raw CSVs           |
 | `ESG_Dashboard.twbx`                  | Tableau Packaged Workbook                   |
 | `images/dashboard_preview.png`        | Screenshot of the final dashboard           |
 | `docs/Data_Process.md`                | Step-by-step data preparation explanation   |
