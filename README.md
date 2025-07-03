@@ -6,7 +6,7 @@ This project presents a comprehensive **ESG (Environmental, Social, and Governan
 
 ## 📊 Dashboard Preview  
 📷 Dashboard Screenshot  
-![Dashboard](./images/dashboard_preview.png)
+![Dashboard](Output.jpg)
 
 ---
 
@@ -14,10 +14,9 @@ This project presents a comprehensive **ESG (Environmental, Social, and Governan
 
 | File                                  | Description                                 |
 |---------------------------------------|---------------------------------------------|
-| `ESG_Cleaned_6SourceDataset.csv`      | Final dataset merged from 6 raw CSVs        |
+| `Final_Data merged from 6 raw CSVs        |
 | `ESG_Dashboard.twbx`                  | Tableau Packaged Workbook                   |
 | `images/dashboard_preview.png`        | Screenshot of the final dashboard           |
-| `docs/Final_Report.pdf`               | Full project report                         |
 | `docs/Data_Process.md`                | Step-by-step data preparation explanation   |
 
 ---
